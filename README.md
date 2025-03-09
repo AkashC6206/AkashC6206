@@ -40,3 +40,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashc6206&show_icons=true&locale=en" alt="akashc6206" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashc6206&" alt="akashc6206" /></p>
+
+## LEET CODE STATS
+![LeetCode Stats](https://leetcard.jacoblin.cool/akashc6206?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
